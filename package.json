@@ -1,0 +1,17 @@
+{
+  "name": "web-site",
+  "version": "1.0.0",
+  "description": "web-site of frank shaw",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "frank shaw",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.13.2",
+    "express": "^4.12.4",
+    "express-session": "*",
+    "mysql": "*"
+  }
+}
