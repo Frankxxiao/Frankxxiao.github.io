@@ -1,3 +1,6 @@
 var server = require("./server");
 
-server.start();
+function IndexController($scope){
+	$scope.start = server.start();
+}
+
